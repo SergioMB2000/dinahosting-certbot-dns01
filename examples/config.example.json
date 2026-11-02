@@ -1,0 +1,7 @@
+{
+  "zone": "example.com",
+  "username": "DINAHOSTING_API_USER",
+  "password": "DINAHOSTING_API_PASSWORD",
+  "propagation_seconds": 360,
+  "cert_name": "example-wildcard"
+}
